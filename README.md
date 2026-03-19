@@ -57,9 +57,8 @@ Atuo com desenvolvimento em **Python**, criando soluções voltadas para automa�
 </p>
 
 ---
-
 ## 👀 Visitantes
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=leandrosfreitas&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=leandrosfreitas&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
